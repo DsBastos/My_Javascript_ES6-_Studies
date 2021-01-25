@@ -1,1 +1,1 @@
-# My_Javascript_ES6+_Studies
+# My_Javascript_ES6-plus_Studies
